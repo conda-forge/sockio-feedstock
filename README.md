@@ -123,4 +123,5 @@ Feedstock Maintainers
 =====================
 
 * [@beenje](https://github.com/beenje/)
+* [@tiagocoutinho](https://github.com/tiagocoutinho/)
 
