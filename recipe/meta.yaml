@@ -1,5 +1,5 @@
 {% set name = "sockio" %}
-{% set version = "0.14.0" %}
+{% set version = "0.15.0" %}
 
 
 package:
@@ -8,10 +8,10 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/sockio-{{ version }}.tar.gz
-  sha256: 102c1c7e1e1a720c3446a6aa6a5c3238c6090d713eb746f86ea30f51b218f0a4
+  sha256: 32eba7eaa0d402bb6fa27188ed7b0e476e49e4aba6276161c1773e37e7070353
 
 build:
-  number: 1
+  number: 0
   noarch: python
   script: {{ PYTHON }} -m pip install . -vv
 
