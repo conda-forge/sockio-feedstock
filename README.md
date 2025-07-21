@@ -15,7 +15,6 @@ Documentation: https://tiagocoutinho.github.io/sockio/
 
 A python concurrency agnostic socket library.
 
-
 Current build status
 ====================
 
